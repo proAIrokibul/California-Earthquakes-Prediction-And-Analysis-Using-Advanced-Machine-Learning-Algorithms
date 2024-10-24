@@ -1,4 +1,4 @@
-# Earthquakes-Prediction-And-Analysis-Using-Advanced-Machine-Learning-Algorithms
+# California Earthquakes-Prediction-And-Analysis-Using-Advanced-Machine-Learning-Algorithms
 
 # Earthquake Prediction Project
 
